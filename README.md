@@ -9,5 +9,5 @@
 * ReactJs
 
 
-### Client
+### Client UI/UX-
 ![alt text](https://github.com/praveshstark/Memories-client/blob/main/src/image/client.png?raw=true)
